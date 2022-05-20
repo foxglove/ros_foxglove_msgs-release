@@ -1,7 +1,0 @@
-ros-noetic-foxglove-msgs (1.0.0-1buster) buster; urgency=high
-
-  * Initial release with foxglove_msgs/ImageMarkerArray message
-
- -- John Hurliman <john@foxglove.dev>  Wed, 26 May 2021 07:00:00 -0000
-
-

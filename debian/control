@@ -1,0 +1,12 @@
+Source: ros-noetic-foxglove-msgs
+Section: misc
+Priority: optional
+Maintainer: Foxglove <ros-tooling@foxglove.dev>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-geometry-msgs, ros-noetic-message-generation, ros-noetic-ros-environment, ros-noetic-visualization-msgs
+Homepage: https://foxglove.dev/
+Standards-Version: 3.9.2
+
+Package: ros-noetic-foxglove-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-geometry-msgs, ros-noetic-message-runtime, ros-noetic-visualization-msgs
+Description: foxglove_msgs provides visualization messages that are supported by Foxglove Studio.

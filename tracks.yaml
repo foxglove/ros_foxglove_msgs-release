@@ -48,8 +48,8 @@ tracks:
     patches: null
     release_inc: '1'
     release_repo_url: git@github.com:foxglove/ros_foxglove_msgs-release.git
-    release_tag: ros-v:{version}
+    release_tag: :{ask}
     ros_distro: noetic
     vcs_type: git
     vcs_uri: https://github.com/foxglove/schemas.git
-    version: :{auto}
+    version: :{ask}

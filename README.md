@@ -1,3 +1,26 @@
+## foxglove_msgs (noetic) - 2.3.0-1
+
+The packages in the `foxglove_msgs` repository were released into the `noetic` distro by running `/home/vscode/.local/bin/bloom-release foxglove_msgs --ros-distro noetic -e` on `Mon, 11 Dec 2023 21:57:49 -0000`
+
+The `foxglove_msgs` package was released.
+
+Version of package(s) in repository `foxglove_msgs`:
+
+- upstream repository: https://github.com/foxglove/schemas.git
+- release repository: https://github.com/foxglove/ros_foxglove_msgs-release.git
+- rosdistro version: `2.1.1-1`
+- old version: `2.1.1-1`
+- new version: `2.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## foxglove_msgs (noetic) - 2.1.1-1
 
 The packages in the `foxglove_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release foxglove_msgs --ros-distro noetic` on `Tue, 29 Nov 2022 17:30:39 -0000`
